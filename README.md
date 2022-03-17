@@ -1,6 +1,6 @@
 # GIVE IT UP FOR DAY 15!
-Inspired by the twitter account @giveitupfor15, this is a Discord bot written in Python that pings everyone in the server at midnight on the 15th day of every month. (MT)
-In addition, the bot features a number of fun commands related to DAY 15 for a bit of spice!
+Inspired by the twitter account @giveitupfor15, this is a Discord bot written in Python that pings everyone in the server at midnight on the 15th day of every month
+(MST/MDT). In addition, the bot features a number of fun commands related to DAY 15 for a bit of spice!
 
 # Using this repository
 This repository was created to act as a record for me to keep track of the releases for the DAY 15 bot, and to act as a public record of my work on this bot. The code
