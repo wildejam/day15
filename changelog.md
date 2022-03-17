@@ -15,3 +15,4 @@ this log.
 ## v19 - Public GitHub repository created!
 - Created README and changelog files for the GitHub repository
 - Established a workflow and Git system that allows for a public repository of the bot to be shared
+- Changed initialization print message to print all servers the bot is currently connected to, rather than just 1. Deleted DISCORD_GUILD environment variable
